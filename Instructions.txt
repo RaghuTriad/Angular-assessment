@@ -1,0 +1,14 @@
+Information
+------------
+- For mock UI refer: 'https://github.com/RaghuTriad/Angular-assessment/blob/master/TestApplication-mock.png' 
+- A service 'StudentDataService' is provided in the project to get fake data.
+- A class to represent 'Student' is provided in the project
+
+Todo
+-----
+- Create a component to show the list of students using method in 'StudentDataService' as shown in the mock
+- Create a component to show the data of student using method in 'StudentDataService' on click as shown in the mock
+- Handle adding a student and deleting a student actions
+
+
+Note: To design the UI, DONOT use any other external frameworks/packages like bootstrap, jquery etc.
